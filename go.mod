@@ -1,6 +1,6 @@
 module github.com/harvester/harvester
 
-go 1.25
+go 1.25.0
 
 replace (
 	// k8s.io/code-generator still remains v0.31.5 due to kubevirt v1.6.0.
@@ -334,7 +334,7 @@ require (
 	golang.org/x/exp v0.0.0-20250506013437-ce4c2cf36ca6 // indirect
 	golang.org/x/mod v0.25.0 // indirect
 	golang.org/x/oauth2 v0.30.0 // indirect
-	golang.org/x/sys v0.34.0 // indirect
+	golang.org/x/sys v0.44.0 // indirect
 	golang.org/x/term v0.33.0 // indirect
 	golang.org/x/time v0.12.0 // indirect
 	golang.org/x/tools v0.34.0 // indirect
